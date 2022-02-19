@@ -278,6 +278,7 @@
     .header-area .links.open {
         background-color: #fff;
         padding: 10px;
+        margin: 5px 0;
         display: block;
         position: absolute;
         left: 0;
