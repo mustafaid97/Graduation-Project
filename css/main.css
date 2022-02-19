@@ -468,7 +468,7 @@
 /* End E-Books */
 /* Start Kids Section */
 .kids {
-    background-image: url(/img/kids.jpg);
+    background-image: url(../img/kids.jpg);
     background-size: cover;
     position: relative;
     height: 600px;
